@@ -1,4 +1,4 @@
-ive attached the week-wise assignments given to us as a jupyter file, it started with basic python building its way to basics of ML, logistic regression, things like gradient descent and so on. week3 covered image classification. through this bootcamp ive learnt the basics of python and now have a good grasp on the concepts of ML and how to implement them using python.
+ive attached the week-wise assignments given to us as a jupyter file, it started with basic python building its way to basics of ML, logistic regression, things like gradient descent and so on. in week3 we built our first neural network with one hidden layer. through this bootcamp ive learnt the basics of python and now have a good grasp on the concepts of ML and how to implement them using python.
 
 
 as our midterm project i made a mini neural network using just numpy taking reference from a youtube video sharedd by the mentors, i chose the dataset from kaggle.com
